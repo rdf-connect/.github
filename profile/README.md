@@ -1,10 +1,8 @@
-# An RDF-based framework for connecting data processors in a pipeline
+## _An RDF-based framework for connecting data processors_
 
-## Getting started
+__Getting started:__ Check out the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or the [pipelines in the ERA RINF project](https://github.com/julianrojas87/CA-RINF-LDES)
 
-Check out the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or the [pipelines in the ERA RINF project](https://github.com/julianrojas87/CA-RINF-LDES)
-
-## Processors and scenarios
+__Processors and scenarios:__
 
  * Incrementally mapping a file using [the RML Mapper processor](https://github.com/julianrojas87/rml-mapper-processor-ts)
  * Replicating and synchronizing LDESs using [the LDES client](https://github.com/rdf-connect/ldes-client)
