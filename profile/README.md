@@ -1,6 +1,4 @@
-# RDF Connect
-
-A framework for connecting data processors in a pipeline.
+# An RDF-based framework for connecting data processors in a pipeline
 
 ## Getting started
 
