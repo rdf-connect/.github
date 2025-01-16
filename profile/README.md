@@ -1,6 +1,6 @@
 ## An RDF-based framework for connecting data processors
 
-__Getting started:__ Check out [some documentation](https://rdf-connect.github.io/rdfc.github.io/) or jump into some examples: the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or the [pipelines in the ERA RINF project](https://github.com/julianrojas87/CA-RINF-LDES).
+__Getting started:__ Check out [this paper](https://ceur-ws.org/Vol-3830/paper1.pdf), [some documentation](https://rdf-connect.github.io/rdfc.github.io/) or jump directly into some examples: the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or the [pipelines in the ERA RINF project](https://github.com/julianrojas87/CA-RINF-LDES).
 
 __Processors:__
 
