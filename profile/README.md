@@ -1,10 +1,14 @@
-## An RDF-based framework for connecting data processors
+## RDF-Connect: An RDF-based framework for streaming and cross-environment data processing pipelines
 
-__Getting started:__ Check out [this paper](https://ceur-ws.org/Vol-3830/paper1.pdf), check [some documentation](https://rdf-connect.github.io/rdfc.github.io/) or jump directly into some examples: 
+__Getting started:__ 
+* Check out [this publication](https://ceur-ws.org/Vol-3830/paper1.pdf)
+* Check a [high-level overview](https://rdf-connect.github.io/rdfc.github.io/)
+* Check the [technical specification](https://rdf-connect.github.io/specification/)
+* Or jump directly into some examples:
   * the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or
   * the [pipelines in the ERA RINF project](https://github.com/rdf-connect/RDF-Connect-RINF-LDES).
 
-__Processors:__
+__Exisitn Processors:__
 
  * Incrementally mapping a file using [the RML Mapper processor](https://github.com/rdf-connect/rml-utils-processor-ts)
  * Replicating and synchronizing LDESs using [the LDES client](https://github.com/rdf-connect/ldes-client)
