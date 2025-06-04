@@ -2,7 +2,7 @@
 
 __Getting started:__ 
 * Check out [this publication](https://ceur-ws.org/Vol-3830/paper1.pdf)
-* Check a [high-level overview](https://rdf-connect.github.io/rdfc.github.io/)
+* Check a [high-level overview](https://rdf-connect.github.io/)
 * Check the [technical specification](https://rdf-connect.github.io/specification/)
 * Or jump directly into some examples:
   * the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or
