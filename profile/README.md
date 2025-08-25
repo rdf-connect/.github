@@ -8,7 +8,7 @@ __Getting started:__
   * the [examples from the Maregraph project](https://github.com/rdf-connect/maregraph-examples) or
   * the [pipelines in the ERA RINF project](https://github.com/rdf-connect/RDF-Connect-RINF-LDES).
 
-__Exisitn Processors:__
+__Existing Processors:__
 
  * Incrementally mapping a file using [the RML Mapper processor](https://github.com/rdf-connect/rml-utils-processor-ts)
  * Replicating and synchronizing LDESs using [the LDES client](https://github.com/rdf-connect/ldes-client)
